@@ -45,4 +45,4 @@ Hey, I'm Kuldeep Patel with 3.5+ years of experience in web ( react js, next js 
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/kuldeep"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/codefever7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
