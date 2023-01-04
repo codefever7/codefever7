@@ -46,6 +46,4 @@ Hey, I'm Kuldeep Patel with 3.5+ years of experience in web ( react js, next js 
 ### Support Me
 
 <!-- <a href="https://www.buymeacoffee.com/codefever7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
-<div width="36" height="36" alt="Javascript">
 ![bmc_qr](https://user-images.githubusercontent.com/84084532/210494229-c6ec5771-ec8e-4c57-acb3-c8e89a4801ea.png)
-</div>
